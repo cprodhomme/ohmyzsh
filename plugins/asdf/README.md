@@ -22,6 +22,6 @@ Adds integration with [asdf](https://github.com/asdf-vm/asdf), the extendable ve
 See the [asdf usage documentation](https://github.com/asdf-vm/asdf#usage) for information on how to use asdf:
 
 ```
-asdf plugin-add nodejs git@github.com:asdf-vm/asdf-nodejs.git
+asdf plugin-add nodejs https://github.com/asdf-vm/asdf-nodejs.git
 asdf install nodejs 5.9.1
 ```
